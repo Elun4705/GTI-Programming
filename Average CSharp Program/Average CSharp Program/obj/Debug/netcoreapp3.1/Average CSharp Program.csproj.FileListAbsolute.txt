@@ -1,0 +1,13 @@
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\bin\Debug\netcoreapp3.1\Average CSharp Program.exe
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\bin\Debug\netcoreapp3.1\Average CSharp Program.deps.json
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\bin\Debug\netcoreapp3.1\Average CSharp Program.runtimeconfig.json
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\bin\Debug\netcoreapp3.1\Average CSharp Program.runtimeconfig.dev.json
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\bin\Debug\netcoreapp3.1\Average CSharp Program.dll
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\bin\Debug\netcoreapp3.1\Average CSharp Program.pdb
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.csprojAssemblyReference.cache
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.AssemblyInfoInputs.cache
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.AssemblyInfo.cs
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.csproj.CoreCompileInputs.cache
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.dll
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.pdb
+C:\Users\Kiddos\Source\Repos\Elun4705\GTI-Programming\Average CSharp Program\Average CSharp Program\obj\Debug\netcoreapp3.1\Average CSharp Program.genruntimeconfig.cache
