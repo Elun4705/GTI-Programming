@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Emmanuel's GTI Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/Elun4705/GTI-Programming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
